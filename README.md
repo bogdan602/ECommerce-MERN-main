@@ -18,6 +18,8 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux Thunk middleware to handle asynchronous redux actions
 
 ## Presentation
+## Presentation
+
 
   There is a presentation file which shows the work flow of the web site. Please clilck [Here](https://github.com/luisyanpederico/ECommer-MERN/raw/main/Presentation.pptx) to download it
 
